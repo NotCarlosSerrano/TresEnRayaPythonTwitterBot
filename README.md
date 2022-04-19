@@ -1,4 +1,4 @@
-## Getting Started Test
+## Getting Started
 
 This is a small python project to play tic-tac-toe against a bot using the twitter API.
 
